@@ -1,8 +1,9 @@
 # Database Experience
 
-Repositório criado para entregar os desafios do Bootcamp Database Experience desenvolvido pela [Digital Innovation One Inc.](https://www.dio.me/)
+## Desafio E-COMMERCE
 
+Esse desafio consiste em criar um diagrama de relacionamento para um banco de dados de uma oficina mecânica.
 
-## Como funciona esse repositório?
+## Resultado
 
-Dentro de cada branch terá uma breve descrição de cada desafio junto da resolução do desafio.
+![Diagrama de relacionamento](Oficina.png)
